@@ -4,19 +4,19 @@
 
 ### JavaScript基础
 
-- [理解对象](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E7%90%86%E8%A7%A3%E5%AF%B9%E8%B1%A1.md)
-- [理解原型和原型链](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E5%8E%9F%E5%9E%8B%E5%AF%B9%E8%B1%A1%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
-- [继承](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E7%BB%A7%E6%89%BF.md)
+- [理解对象](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E7%90%86%E8%A7%A3%E5%AF%B9%E8%B1%A1.md)
+- [理解原型和原型链](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E5%8E%9F%E5%9E%8B%E5%AF%B9%E8%B1%A1%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
+- [继承](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E7%BB%A7%E6%89%BF.md)
 - class的底层实现原理
-- [作用域和作用域链](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE.md)
-- [执行环境](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83.md)
-- [闭包](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E9%97%AD%E5%8C%85.md)
-- [理解this](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E7%90%86%E8%A7%A3this.md)
-- [模拟new](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E6%A8%A1%E6%8B%9Fnew.md)
-- [手写apply、call、bind函数](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E6%89%8B%E5%86%99apply%E3%80%81call%E3%80%81bind%E5%87%BD%E6%95%B0.md)
-- [ES6是如何实现块级作用域的](https://github.com/hrjyyx/Blog/blob/main/JavaScript/ES6%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%9D%97%E7%BA%A7%E4%BD%9C%E7%94%A8%E5%9F%9F%E7%9A%84.md)
-- [类型检测](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E7%B1%BB%E5%9E%8B%E6%A3%80%E6%B5%8B.md)
-- [数组操作方法](https://github.com/hrjyyx/Blog/blob/main/JavaScript/%E6%95%B0%E7%BB%84%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95.md)
+- [作用域和作用域链](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE.md)
+- [执行环境](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83.md)
+- [闭包](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E9%97%AD%E5%8C%85.md)
+- [理解this](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E7%90%86%E8%A7%A3this.md)
+- [模拟new](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E6%A8%A1%E6%8B%9Fnew.md)
+- [手写apply、call、bind函数](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E6%89%8B%E5%86%99apply%E3%80%81call%E3%80%81bind%E5%87%BD%E6%95%B0.md)
+- [ES6是如何实现块级作用域的](https://github.com/hrjyyx/Blog/blob/master/JavaScript/ES6%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%9D%97%E7%BA%A7%E4%BD%9C%E7%94%A8%E5%9F%9F%E7%9A%84.md)
+- [类型检测](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E7%B1%BB%E5%9E%8B%E6%A3%80%E6%B5%8B.md)
+- [数组操作方法](https://github.com/hrjyyx/Blog/blob/master/JavaScript/%E6%95%B0%E7%BB%84%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95.md)
 
 ### TypeScript基础
 
@@ -91,9 +91,9 @@
 
 ### 优秀博客汇总——常读常新
 
-- [优秀博客汇总](https://github.com/hrjyyx/Blog/blob/main/2021/%E4%BC%98%E7%A7%80%E5%8D%9A%E5%AE%A2.md)
+- [优秀博客汇总](https://github.com/hrjyyx/Blog/blob/master/2021/%E4%BC%98%E7%A7%80%E5%8D%9A%E5%AE%A2.md)
 
-- [2021年目标以及完成状态](https://github.com/hrjyyx/Blog/blob/main/2021/2021%E7%9B%AE%E6%A0%87.md)
+- [2021年目标以及完成状态](https://github.com/hrjyyx/Blog/blob/master/2021/2021%E7%9B%AE%E6%A0%87.md)
 
 
 
